@@ -1,3 +1,4 @@
+-[Pritha Chatterjee](https://github.com/pritzz2411)
 -[suchal](https://github.com/saisuchal/first-contributions)
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
